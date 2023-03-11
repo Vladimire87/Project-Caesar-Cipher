@@ -1,4 +1,3 @@
-# frozen_string_literal: true
 
 def caesar_cipher(string, key)
   caesar_cipher = ''
